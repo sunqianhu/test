@@ -1,0 +1,16 @@
+{
+    "name": "sunqianhu/test",
+    "description": "composer test",
+    "autoload": {
+        "psr-4": {
+            "sunqianhu\\test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sunqianhu",
+            "email": "469661426@qq.com"
+        }
+    ],
+    "require": {}
+}
