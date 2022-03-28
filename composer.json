@@ -12,5 +12,6 @@
             "email": "469661426@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "license": "MIT"
 }
