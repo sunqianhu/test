@@ -1,5 +1,5 @@
 <?php
-namespace sunqianhu\test
+namespace sunqianhu\test;
 
 class Log{
     public function write($content){
